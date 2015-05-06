@@ -8,7 +8,7 @@ Phase I Features
 * Editable metadata is stored in object storage backend
 * Full text searching
 * Tag searching
-* Access control (and visibility) per object
+* Access control (public vs private) (and visibility) per object, including in search results
 
 Phase II Features
 * S3 object storage backend
